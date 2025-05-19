@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "123456ABCD.com.example.flutterApplinkDemo",
+                "paths": [
+                    "/links/*"
+                ]
+            }
+        ]
+    }
+}
